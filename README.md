@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PabloCuG
-- 👀 I’m interested in coding in JAVA language.
 - 🌱 I’m currently learning to be a Software Engineer.
 
 <!---
